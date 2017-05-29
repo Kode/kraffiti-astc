@@ -1,0 +1,4 @@
+[submodule "astc-encoder"]
+	path = astc-encoder
+	url = https://github.com/Kode/astc-encoder.git
+	branch = master
